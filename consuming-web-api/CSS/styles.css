@@ -1,0 +1,45 @@
+/**
+ This file contains all styles for the website in addition to the Bootstrap
+ */
+
+#likes{
+    display: none;
+}
+
+#favourites{
+    display: none;
+}
+
+#body{
+    background-color: #dae2e0;
+}
+
+#container{
+    background-color: #F0F2EF;
+}
+#footer {
+    background-color: #dae2e0;
+    font-family: "Calisto MT";
+}
+
+body{
+    max-width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: "Calisto MT";
+}
+
+h2 {
+    font-size: 30px;
+    font-family: "Calisto MT";
+}
+
+img{
+    margin: 10px;
+    padding: 10px;
+    max-width: 500px;
+    max-height: 300px;
+    border: aqua;
+}
